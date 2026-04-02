@@ -15,3 +15,5 @@ Master List on the left can be hidden by selecting the master list button. Your 
 Active LORAs will be in color, inactive will be grayed out. Just click it to activate and deactivate. I'm having issues with groups and it showing selected/active in one list and not the other. When in doubt, use the "active" button to see what is active and stick to your custom groups for organizing as opposed to editing the master list. You can also rename your LORA files to get better display names. If you have oprganized your lora folder in a special way with subfolder, hover your mouse over the lora icon to see its path.
 
 Nothing special when it comes to workflows as it functions like any other loader. Place it where you normally place your LORA loaders.
+
+![Screenshot 2026-04-01 230940](https://github.com/user-attachments/assets/ab572674-d4cf-4ebe-9c70-54ee6c7b5b4c)
