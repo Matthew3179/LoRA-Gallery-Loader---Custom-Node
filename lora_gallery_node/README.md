@@ -49,14 +49,10 @@ Workflows saved with this node are **not** compatible with PLL and vice versa (t
 |---|---|
 | **Visual cards** | 86×86px image per LoRA. Grayscale = unselected/off. Full color = active. |
 | **Toggle on/off** | Click a selected card to toggle it off without removing it (mirrors PLL's toggle). |
-| **Separate clip strength** | Click the **Clip** button in the toolbar to show a second strength input per card. |
-| **Model-type groups** | FLUX, SDXL, SD 1.5, QWEN, WAN, HUNYUAN, LTXV, MOCHI, COGVIDEO, ANIMATEDIFF, Other — auto-detected from filename. |
-| **Manual group override** | Right-click → Move to: … |
 | **Set preview image** | Hover a card → click "Set image", or right-click → Set preview image. Saved to `.lora_gallery_previews/` next to your LoRA files. |
-| **Search** | Filters across all groups in real time. |
+| **Search** | Filters across all groups in real time for LoRAs and trigger words. |
 | **Active filter** | ★ Active button shows only enabled LoRAs. |
-| **Refresh** | ⟳ rescans the LoRA folder without restarting ComfyUI. |
-| **Workflow save/load** | Selection is stored in `extra_info` so it survives workflow save & reload. |
+
 
 ---
 
