@@ -1,4 +1,5 @@
 ![Screenshot 2026-04-02 095425](https://github.com/user-attachments/assets/e3d0c074-eb9c-4d6a-b7c7-3f0ffa6848aa)
+![Screenshot 2026-04-02 125616](https://github.com/user-attachments/assets/91df6ebc-ab26-48d8-b168-9868b1ab0d0c)
 
 V2 Updates: Added trigger word search bar. Fixed overlay and spacing.
 
@@ -16,4 +17,3 @@ Active LORAs will be in color, inactive will be grayed out. Just click it to act
 
 Nothing special when it comes to workflows as it functions like any other loader. Place it where you normally place your LORA loaders.
 
-![Screenshot 2026-04-01 230940](https://github.com/user-attachments/assets/ab572674-d4cf-4ebe-9c70-54ee6c7b5b4c)
