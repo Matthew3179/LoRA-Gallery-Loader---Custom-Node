@@ -1,3 +1,5 @@
+![Screenshot 2026-04-02 095425](https://github.com/user-attachments/assets/e3d0c074-eb9c-4d6a-b7c7-3f0ffa6848aa)
+
 V2 Updates: Added trigger word search bar. Fixed overlay and spacing.
 
 Custom ComfyUI node that allows you to better visualize active LORAs. Drop it in your custom nodes folder, nothing else required.
